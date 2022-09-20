@@ -47,6 +47,3 @@ It shows the marks of students who have already completed the test.
 ![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/Screenshot%20(47).png?raw=true)
 Rating shows the marks rating student got and the student can also give rating , on submitting they will see their scores.
 
-##  Contributors
-* <b> Harshit Sinha </b> - [harshitsinha860](https://github.com/harshitsinha860)
-* <b> Manvendra Singh </b> - [Man-vendra](https://github.com/Man-vendra)
